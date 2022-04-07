@@ -1,0 +1,14 @@
+.hero{
+    padding: 3rem;
+}
+
+.hero>img{
+    margin: auto;
+    display: block;
+    width: 650px;
+}
+
+.hero-text{
+    padding: 1rem;
+}
+

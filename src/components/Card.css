@@ -1,0 +1,36 @@
+.cardImg{
+    width: 250px;
+    
+}
+
+.star{
+    width: 20px;
+    padding: 0.5rem 0rem;
+}
+
+.grey{
+    color: gray;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 0rem 4rem;
+    line-height: 80%;
+
+}
+
+.card-text{
+    padding: 0rem 0rem;
+
+}
+
+.rating{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.rating>p{
+    padding: 0rem 0.5rem;
+}
