@@ -1,0 +1,4 @@
+div.many-cards{
+    display: flex;
+    flex-direction: row;
+}
